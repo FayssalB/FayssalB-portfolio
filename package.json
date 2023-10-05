@@ -1,7 +1,7 @@
 {
-  "name": "portfolio-3d",
-  "version": "0.1.0",
   "homepage": "https://FayssalB.github.io/portfolio-3d",
+  "name": "portfolio3d",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@react-three/drei": "^9.80.6",
