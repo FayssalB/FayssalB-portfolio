@@ -12,7 +12,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path='/' exact Component={Home}/>
+        <Route path='https://fayssalb.github.io/portfolio-3d/' exact Component={Home}/>
         <Route path='/project' exact Component={Project}/>
         <Route path='/project/:id'  Component={Detail}/>
         <Route path='/resume' exact Component={Resume}/>
